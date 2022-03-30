@@ -10,6 +10,13 @@ We have created a public DFK Chain RPC endpoint that give players who play DeFi 
 
 To get started connecting to Pocket's infrastructure for DFK Chain subnet, do the following:
 
+1. Go to https://chainlist.org/?search=dfk
+2. Click on the Down Arrow on DFK Chain
+3. In the row with "htps://avax-dfk.gateway.pokt.network..." Click Connect Wallet (at the Right)
+4. Click Add to Metamask
+
+To add manually:
+
 1. Click on the Networks drop-down menu, then press Custom RPC
 2. Under the Network Name field, write **DFK Chain POKT**
 3. Within the New RPC URL field, copy and paste this endpoint URL `https://avax-dfk.gateway.pokt.network/v1/lb/6244818c00b9f0003ad1b619//ext/bc/q2aTwKuyzgs8pynF7UXBZCU7DejbZbZ6EUyHr3JQzYgwNPUPi/rpc`
