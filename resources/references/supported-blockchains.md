@@ -14,6 +14,7 @@ The following table shows the full list of supported, revenue-generating RelayCh
 | Binance Smart Chain Archival | bsc-archival         | 0010         |
 | Boba                         | boba-mainnet         | 0048         |
 | DFKchain Subnet              | dfk-mainnet          | 03DF         |
+| Swimmer Network Subnet       | avax-cra             | 03CB         |
 | Ethereum                     | eth-mainnet          | 0021         |
 | Ethereum Archival            | eth-archival         | 0022         |
 | Ethereum Archival Trace      | eth-archival-trace   | 0028         |
